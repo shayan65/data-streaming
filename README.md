@@ -182,11 +182,11 @@ To download the sample CSV file:
 
 ## **Submission Guidelines**
 
-- **Deadline:** Please complete the challenge and submit your solution within the agreed timeframe.
-
+- **Deadline:** Please complete the challenge by Sunday 12 pm EST
 - **How to Submit:**
-  - Provide access to your Git repository (e.g., GitHub, GitLab) containing all the deliverables.
+  - Update this git repo with your solution.
   - Include any deployment links or additional resources as needed.
 
 - **Contact Information:**
   - If you have any questions or need clarifications, please reach out to the hiring manager or contact person.
+shayan@newcortex.ai
