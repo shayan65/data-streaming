@@ -28,7 +28,7 @@ This application is designed to handle high-volume, continuous data flow and pro
 ### Features
 - **Real-Time Stock Price Streaming**: Fetches stock data every 5 seconds from the Yahoo Finance API and streams it to users via WebSockets.
 - **CSV Portfolio Upload**: Allows users to upload their portfolio details through a CSV file.
-- **Data Fallback Mechanism**: Uses Redis to cache the last available data in case of API unavailability. An alternate solution is using my backend to connect to yahoo's websocket endpoint and possibly avoiding ratelimiting.
+- **Data Fallback Mechanism**: Uses Redis to cache the last available data in case of API unavailability. An alternate solution is using my backend to connect to yahoo's websocket endpoint and possibly avoiding rate-limiting.
 - **Scalable and Resilient Deployment**: Uses GCP Load Balancer and Autoscaler to ensure the application is available and scales as per demand.
 
 ### System Design
@@ -37,5 +37,8 @@ Below is the system design for the application, highlighting key components and 
 #### Diagram
 
 ```markdown
-![System Design Diagram](./systemdesign.png)
+<img src="./images/systemdesign.png" alt="System Design Diagram" width="600"/>
+![System Design Diagram](C:\Users\rupes\OneDrive\Desktop\Personal\newcortex_assessment\live-portfolio-tracker\images\systemdesign.png)
+
+
 
