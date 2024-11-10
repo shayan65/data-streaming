@@ -37,8 +37,7 @@ Below is the system design for the application, highlighting key components and 
 #### Diagram
 
 ```markdown
-<img src="./images/systemdesign.png" alt="System Design Diagram" width="600"/>
-![System Design Diagram](data-streaming/images/systemdesign.png)
+![System Design Diagram](https://github.com/shayan65/data-streaming/blob/sys-design/images/systemdesign.png)
 
 
 
