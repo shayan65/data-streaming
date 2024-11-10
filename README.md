@@ -38,7 +38,7 @@ Below is the system design for the application, highlighting key components and 
 
 ```markdown
 <img src="./images/systemdesign.png" alt="System Design Diagram" width="600"/>
-![System Design Diagram](C:\Users\rupes\OneDrive\Desktop\Personal\newcortex_assessment\live-portfolio-tracker\images\systemdesign.png)
+![System Design Diagram](data-streaming/images/systemdesign.png)
 
 
 
