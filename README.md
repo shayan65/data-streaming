@@ -45,4 +45,4 @@ Below is the system design for the application, highlighting key components and 
 
 #### Diagram
 
-![System Design Diagram](https://github.com/shayan65/data-streaming/blob/sys-design/images/systemdesign.png)
+![System Design Diagram](https://github.com/shayan65/data-streaming/blob/sys-design/images/systemdesign1.png)
